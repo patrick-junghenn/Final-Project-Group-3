@@ -1,8 +1,3 @@
-# -*- coding: utf-8 -*-
-
-from google.colab import drive
-
-drive.mount('/content/drive')
 
 from imutils import paths
 import matplotlib.pyplot as plt
